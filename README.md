@@ -1,0 +1,3 @@
+# Maze
+
+This is a small personal project to generate mazes, which can be easily implemented as part of a game. The maze is generated as a x by y integer array, with numbers indicating the start coordinate, end coordinate, solution path, and other paths (generated using a maze algorithm). The solution path is generated randomly, but is strongly weighted to move away from the end tile at first. This creates a fun to play and challenging maze, with a well defined solution. It is lightweight and versatile, unit tested, and can be easily translated to other languages if necessary. Free for use. Please let me know if you make something fun with it!
